@@ -1,0 +1,33 @@
+body{
+     background: #212121;
+     color: #fff;
+}
+h1{
+     text-align: center;
+}
+img{
+     max-width: 100%;
+     display: block;
+}
+a{
+     display: inline-block;
+}
+section{
+     margin: auto;
+     text-align: center;
+     padding: 12px;
+}
+a:hover{
+     opacity: 50%;
+}
+.auto{
+     margin: auto;
+     width: 400px;
+}
+.center{
+    margin: auto;
+    display: block;
+}
+.alignCenter{
+     text-align: center;
+}
